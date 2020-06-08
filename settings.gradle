@@ -1,0 +1,3 @@
+include ':pax-device-util'
+include ':app'
+rootProject.name = "KudiGo Pax Module"
